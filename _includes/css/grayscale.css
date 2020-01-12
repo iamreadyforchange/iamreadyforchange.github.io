@@ -276,11 +276,11 @@ a:focus {
   -o-background-size: cover;
 }
 
-.experience-section {
+.tech-section {
   padding-top: 100px;
 } 
 
-.testimonial-section {
+.testimonials-section {
   width: 100%;
   padding: 50px 0;
   color: #fff;
@@ -308,25 +308,25 @@ a:focus {
     }
 
     .mid-section {
-      padding: 100px 0;
+        padding: 100px 0;
     }
 
-    .experience-section {
-      padding-top: 100px 0;
+    .tech-section {
+        padding: 100px 0;
     } 
 
-    .testimonial-section {
-      padding: 100px 0;
+    .testimonials-section {
+        padding: 100px 0;
     }
 
     /* .contact-section {
       padding: 100px 0;
     } */
 
-    #map {
+    /* #map {
         height: 400px;
         margin-top: 250px;
-    }
+    } */
 }
 
 .btn {
