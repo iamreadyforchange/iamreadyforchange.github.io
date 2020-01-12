@@ -1,12 +1,7 @@
 # Site settings
 title: Ready for Change
-email: |
-  sabrina_saddick@iamreadyforchange.ca
-  (514) 576-9598
-  Office:
-    255 Boul d'Anjou, Suite 208
-    Châteauguay QC J6J 2R4
-    Canada
+email: sabrina_saddick@iamreadyforchange.ca
+  
 url: https://iamreadyforchange.github.io
 description: "Proudly providing counselling and support services for the anglophone community of Montréal, the Montérégie and beyond."
 
