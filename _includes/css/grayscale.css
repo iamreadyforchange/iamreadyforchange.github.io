@@ -276,7 +276,11 @@ a:focus {
   -o-background-size: cover;
 }
 
-/* .contact-section {
+.experience-section {
+  padding-top: 100px;
+} 
+
+.testimonial-section {
   width: 100%;
   padding: 50px 0;
   color: #fff;
@@ -286,10 +290,6 @@ a:focus {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-} */
-
-.testimonial-section {
-    padding-top: 100px;
 }
 
 #map {
